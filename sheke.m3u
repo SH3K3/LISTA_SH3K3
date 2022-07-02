@@ -57,7 +57,7 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/11896
 
 http://138.117.4.70:8075/channel15/playlist.m3u8
 
-XTINF:-1 tvg-id="" tvg-name=" TVNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="SELECCION SH3K3",TVNOVELAS
+#EXTINF:-1 tvg-id="" tvg-name=" TVNOVELAS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tlnovelas_2011_logo.svg/1200px-Tlnovelas_2011_logo.svg.png" group-title="SELECCION SH3K3",TVNOVELAS
 
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/3963
 
@@ -88,12 +88,6 @@ http://138.117.4.70:8075/Alma/playlist.m3u8
 
 
 
- 
-
- 
-
-
-
 
 
 
@@ -108,6 +102,11 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/64023
 #EXTINF:-1 tvg-id="" tvg-name="CARTOONITO" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/8/8e/Cartoonito.png" group-title="SELECCION SH3K3",CARTOONITO
 
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/41020
+
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1920px-Cartoon_Network_2010_logo.svg.png" group-title=" SELECCION SH3K3",Cartoon Network SD
+http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/16638
+
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Kids_Logo_2021-Presente.webp/267px-Discovery_Kids_Logo_2021-Presente.webp.png" group-title="SELECCION SH3K3",DISCOVERY KIDS
 
@@ -349,13 +348,10 @@ http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40983
 
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40988
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL FOX" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",CANAL FOX
+#EXTINF:-1 tvg-id="" tvg-name="STAR CHANNEL" tvg-logo="https://i.ibb.co/6FR6hRM/Sin-t-tulo-1.png" group-title="SELECCION SH3K3", STAR CHANNEL
 
 http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40981
 
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fox_life_logo.svg/2560px-Fox_life_logo.svg.png" group-title="SELECCION SH3K3",FOX LIFE
-
-http://ui.mrzutv.net:8080/EZEPARRA/nicaragaua2022/40984
 
 #EXTINF:-1 tvg-id="" tvg-name="FX " tvg-logo="https://i.ibb.co/6sg7VMK/Sin-t-tulo-1.png" group-title="SELECCION SH3K3",FX 
 
